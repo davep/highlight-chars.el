@@ -1,0 +1,4 @@
+#!/bin/sh
+
+curl https://www.emacswiki.org/emacs/download/highlight-chars.el > highlight-chars.el
+git --no-pager diff
